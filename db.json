@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "cbf7",
+      "name": "naveen",
+      "email": "iamnk1000@gamil.com",
+      "phone": "34567876543"
+    },
+    {
+      "id": "a7c3",
+      "name": "zoro",
+      "email": "zoro@gamil.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": "3c30",
+      "name": "sanji",
+      "email": "barete@gmail.com",
+      "phone": "987654345678"
+    },
+    {
+      "id": "46b1",
+      "name": " milky",
+      "email": "zoro@gmail.com",
+      "phone": "87678909876"
+    }
+  ]
+}
